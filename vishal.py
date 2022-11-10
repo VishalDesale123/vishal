@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("machya")
+print("machya hfadf")
